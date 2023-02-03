@@ -89,7 +89,12 @@ target/
 .mypy_cache/
 
 # confidential files
+<<<<<<< HEAD
 references/Teste Técnico - Data Scientist.pdf
 
 #pre-commit
 .pre-commit-config.yaml
+=======
+
+references/Teste Técnico - Data Scientist.pdf
+>>>>>>> 1155a358d74e76e0debaf4adc7b2becf3af84e8b
