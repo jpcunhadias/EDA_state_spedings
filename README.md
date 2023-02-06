@@ -3,6 +3,15 @@ State Spendings EDA
 
 This is a private repository containing data analysis and exploration projects aimed at demonstrating my skills in using data analysis tools to understand and communicate insights from large datasets. The focus of these projects is on state spendings, and include data cleaning, data visualization, and exploratory data analysis to uncover meaningful patterns and relationships in the data. The goal is to use these projects to showcase my abilities and help me secure a job as a Data Scientist.
 
+==============================
+References 
+
+# https://www.nltk.org/
+# Albrecht, Jens. Blueprints for Text Analytcs Using Python. O'reilly, 2022
+# https://github.com/inoueMashuu/POS-tagger-portuguese-nltk
+
+==============================
+
 Project Organization
 ------------
 
