@@ -8,7 +8,7 @@ This is a private repository containing data analysis and exploration projects a
 
 - [NLTK Documentation](https://www.nltk.org/)
 - [Albrecht, Jens. Blueprints for Text Analytcs Using Python. O'reilly, 2022](https://www.amazon.com.br/Blueprints-Text-Analysis-using-Python/dp/149207408X)
-- [pos_tagger portguese trained](https://github.com/inoueMashuu/POS-tagger-portuguese-nltk)
+- [pos_tagger portuguese trained](https://github.com/inoueMashuu/POS-tagger-portuguese-nltk)
 
 ## Roadmap
 
