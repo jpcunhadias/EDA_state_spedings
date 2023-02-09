@@ -4,7 +4,7 @@ State Spendings EDA
 This is a private repository containing data analysis and exploration projects aimed at demonstrating my skills in using data analysis tools to understand and communicate insights from large datasets. The focus of these projects is on state spendings, and include data cleaning, data visualization, and exploratory data analysis to uncover meaningful patterns and relationships in the data. The goal is to use these projects to showcase my abilities and help me secure a job as a Data Scientist.
 
 
-## Referências
+## References
 
 - [NLTK Documentation](https://www.nltk.org/)
 - [Albrecht, Jens. Blueprints for Text Analytcs Using Python. O'reilly, 2022](https://www.amazon.com.br/Blueprints-Text-Analysis-using-Python/dp/149207408X)
@@ -12,11 +12,11 @@ This is a private repository containing data analysis and exploration projects a
 
 ## Roadmap
 
-- Adicionar mais testes unitários
+- To add more unit tests
 
-- Organizar as funções da my_library.py para estarem em classes
+- To separate my_library.py functions in classes
 
-- Fazer análises mais completas utilizando bibliotecas nativas
+- Do more analysis in libraries such as seaborn and matplotlib
 
 Project Organization
 ------------
