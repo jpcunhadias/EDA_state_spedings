@@ -84,7 +84,7 @@ def calculate_sample_size(population_size: int,
     The sample size is returned as an output. The variability parameter is optional, and it can be used to
     specify the variability of the population. If the variability is not specified, then it is assumed to be 0.5.
 
-    The population size is the total number of items in the population. It's not used in the calculation, but it's
+    The population size is the total number of items in the population. It's not used in the process, but it's
     included as an input parameter for completeness.
 
     In the context of this project, the variability can be the proportion of an item divided by
