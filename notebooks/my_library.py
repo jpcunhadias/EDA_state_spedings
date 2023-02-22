@@ -218,13 +218,14 @@ def plot_bar_chart_for_filtered_df(df: pd.DataFrame,
 
     labels = list(values_counted_df.keys())
     values = [(v / df_column_size) * 100 for v in values_counted_df.values]
-
+        
     fig, ax = plt.subplots()
     ax.bar(labels, values)
 
     ax.set_title(f'Bar Chart for {column}')
     ax.set_xlabel(column)
     ax.set_ylabel('Count (%)')
+    
 
     plt.show()
 
